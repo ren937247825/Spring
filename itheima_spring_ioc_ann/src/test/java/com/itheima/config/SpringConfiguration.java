@@ -15,5 +15,4 @@ import java.beans.PropertyVetoException;
 @Import({DataSourceConfiguration.class})
 public class SpringConfiguration {
 
-
 }
